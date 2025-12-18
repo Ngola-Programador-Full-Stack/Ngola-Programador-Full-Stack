@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Programador+Full+Stack;Com+Habilidades+de+Engenheiro+de+Software;Apaixonado+por+Tecnologia;De+Angola+para+o+Mundo+%F0%9F%8C%8D)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Programador+Full+Stack;Habilidades+de+Engenheiro+de+Software;Apaixonado+por+Tecnologia;De+Angola+para+o+Mundo+%F0%9F%8C%8D)
 
 </div>
 
@@ -72,15 +72,65 @@ Com experiência em **desenvolvimento web completo, mobile e desktop**, trabalho
 
 ## 🔥 Projetos em Destaque
 
+### 🏪 [Plataforma Anulika](https://github.com/SysCommFlow-Org/Plataforma-Anulika) 🔒
+![Laravel](https://img.shields.io/badge/Laravel_12-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js_3-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Inertia.js](https://img.shields.io/badge/Inertia.js-9553E9?style=flat-square&logo=inertia&logoColor=white)
+![Private](https://img.shields.io/badge/Private-FFA500?style=flat-square&logo=github&logoColor=white)
+
+**Repositório principal e privado** da plataforma de e-commerce Anulika. Atuo como **Responsável Primário e Gestor do Projeto**, liderando a arquitetura full-stack e desenvolvimento.
+
+**Stack Técnico:**
+- Backend: Laravel 12 (Jetstream Starter Kit)
+- Frontend: Vue 3 + TypeScript + Inertia.js
+- Styling: Tailwind CSS + shadcn/ui + Swiper Lib
+- Database: MySQL
+- Colaboradores: 3 desenvolvedores
+
+### 💼 [Plataforma SysCommFlow](https://github.com/Ngola-Programador-Full-Stack/plataforma-SysCommFlow)
+![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=flat-square&logo=ruby-on-rails&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+
+Plataforma especializada em gestão de fluxo de comunicação e sistemas, focada no marketplace, usando stack Ruby on Rails.
+
 ### 🏗️ [Arquitetura de Projetos IPPLS](https://github.com/Ngola-Programador-Full-Stack/arquitetura-de-projetos-ippls)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D)
 
 Repositório público focado em arquitetura de projetos utilizando Vue.js, demonstrando boas práticas e padrões de desenvolvimento.
 
-### 💼 [Plataforma SysCommFlow](https://github.com/Ngola-Programador-Full-Stack/plataforma-SysCommFlow)
+### 📊 [ProjectFlow](https://github.com/SysCommFlow/projectflow)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D)
+![Filament](https://img.shields.io/badge/Filament-FFAA00?style=flat-square&logo=filament&logoColor=white)
+
+Plataforma Laravel 13 + Inertia + Vue 3 + Filament Admin para gestão de projetos acadêmicos com interface moderna e eficiente.
+
+### 💰 [Finance App](https://github.com/SysCommFlow/finance_app)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+
+Aplicativo de gestão e educação financeira desenvolvido com Flutter e Dart, oferecendo controle completo das finanças pessoais.
+
+### 🏫 [School Manage](https://github.com/SysCommFlow/school-manage)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+
+Sistema de gestão escolar simples, facilitando a administração de instituições de ensino.
+
+### 💱 [Conversor de Câmbio Online](https://github.com/SysCommFlow/Conversor-De-Cambio-Online)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+Aplicação web para conversão de moedas em tempo real com interface intuitiva e moderna.
+
+### 📱 [iHs-receitas](https://github.com/SysCommFlow/iHs-receitas)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+Projeto de acervo de receitas com interface dinâmica e funcionalidades práticas para organização culinária.
+
+### 📝 [Questionário de Redes](https://github.com/SysCommFlow/Questionario-de-Redes)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 
-Plataforma especializada em gestão de fluxo de comunicação e sistemas, focada no marketplace.
+Ferramenta educacional interativa especificamente para perguntas e respostas sobre Redes Computacionais.
 
 ---
 
