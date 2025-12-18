@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Programador+Full+Stack;Habilidades+de+Engenheiro+de+Software;Apaixonado+por+Tecnologia;De+Angola+para+o+Mundo+%F0%9F%8C%8D)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Programador+Full+Stack;Habilidade+de+Engenheiro+de+Software;Apaixonado+por+Tecnologia;De+Angola+para+o+Mundo+%F0%9F%8C%8D)
 
 </div>
 
