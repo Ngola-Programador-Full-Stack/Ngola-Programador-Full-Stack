@@ -110,7 +110,7 @@ Convidado novamente para representar o IPPLS em uma feira tecnológica de grande
 
 - 🏗️ Arquitetura de Microsserviços
 - 📐 Design Patterns Avançados
-- ☁️ Cloud Computing (AWS/Azure)
+- ☁️ Cloud Computing (AWS / Laravel Clouds)
 - 🔄 DevOps e CI/CD
 - 🧪 TDD (Test-Driven Development)
 
