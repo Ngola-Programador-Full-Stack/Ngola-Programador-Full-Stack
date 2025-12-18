@@ -12,7 +12,7 @@ Sou **Programador Full Stack** apaixonado por engenharia de software e pela cons
 
 Com experiência em **desenvolvimento web completo, mobile e desktop**, trabalho tanto no frontend quanto no backend, sempre focado em entregar produtos de qualidade que atendam às necessidades do negócio e proporcionem excelente experiência aos usuários.
 
-📍 **Localização:** Icolo e Bengo, Angola 🇦🇴  
+📍 **Localização:**  Angola 🇦🇴, Icolo e Bengo, Calumbo, Zango-3
 💼 **Foco:** Desenvolvimento Full Stack (Web, Mobile & Desktop)  
 🎯 **Missão:** Construir aplicações escaláveis com código limpo e arquitetura sólida  
 🎨 **Design:** Prototipagem e UI/UX com Figma
@@ -159,8 +159,9 @@ Convidado novamente para representar o IPPLS em uma feira tecnológica de grande
 ## 🌱 Atualmente Estudando
 
 - 🏗️ Arquitetura de Microsserviços
-- 📐 Design Patterns Avançados
-- ☁️ Cloud Computing (AWS/Azure)
+- 🏛️ Arquitetura em Camadas
+- 📐 Design Patterns
+- ☁️ Cloud Computing (AWS/Laravel Clouds)
 - 🔄 DevOps e CI/CD
 - 🧪 TDD (Test-Driven Development)
 
@@ -193,6 +194,8 @@ const antonioNgola = {
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paigrandengola@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-ngola-617777312)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ngola-Programador-Full-Stack)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/244932901075)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp_2-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/244954496214)
 
 </div>
 
